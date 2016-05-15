@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>qaqfmkfkmjtifsehqwzi.jpg</file>
+    </qresource>
+    <qresource prefix="/new/sounds">
+        <file>beep-7.mp3</file>
+    </qresource>
+</RCC>
